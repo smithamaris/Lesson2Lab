@@ -8,30 +8,30 @@ p {
     margin: 0;
     text-align: center;
     font-size: 18px;
-    background-color: #f53a3a;
+    background-color: #CA3F3F;
     padding-top: 40px;
     padding-bottom: 40px;
 }
 main {
     width: 100vw;
     height: 100vh;
-    color: #5a5ab9;
+    color: #000000;
 }
 .red {
-    background-color: #d36060;
+    background-color:#D46363;
 }
 .orange {
     background-color: #ffbe45;
 }
 .yellow {
-    background-color: #e2e271;
+    background-color: #ACA711;
 }
 .green {
-    background-color: #55bd51;
+    background-color: #3A9938;
 }
 .blue {
-    background-color: #6d6dec;
+    background-color: #7070EB;
 }
 .purple {
-    background-color: #ca29ca;
+    background-color: #FA00FA;
 }
